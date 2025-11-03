@@ -8,7 +8,7 @@
 //   -OperatorOverloading-Timer-Header.h
 //   -OperatorOverloading-Timer-Implementation.cpp
 // Overloaded operators are +, -, and <<.
-// Here is Dev 1 making a change ...
+// Dev 1 is making another change here ...
 //
 //==========================================================
 #include <cstdlib>  // For several general-purpose functions
